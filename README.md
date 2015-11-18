@@ -35,7 +35,7 @@ A curated list of Microscaling related principles and technologies inspired by [
 
 ### Articles
 
-- [InfoQ interview](http://circle-theory.blogspot.co.uk/2015/11/microscaling-with-load-balancing-in.html) - interview on microscaling with Ross Fairbanks of Force12.io by Daniel Bryant.
+- [InfoQ interview](http://www.infoq.com/news/2015/09/force12io-microscaling-mesos) - interview on microscaling with Ross Fairbanks of Force12.io by Daniel Bryant.
 - [Microscaling with load balancing in ECS](http://circle-theory.blogspot.co.uk/2015/11/microscaling-with-load-balancing-in.html) - blog post by Adam Christie.
 
 ### Papers
