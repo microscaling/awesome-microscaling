@@ -5,7 +5,48 @@ A curated list of Microscaling related principles and technologies inspired by [
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
+- [Schedulers](#schedulers)
+- [Frameworks](#frameworks)
+- [Demos](#demos)
+- [Theory](#theory)
+  - [Articles](#articles)
+  - [Papers](#papers)
+  - [Talks](#talks)
+- [License](#license)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Schedulers
+
+- [Kubernetes](https://github.com/kubernetes/kubernetes/blob/cf8c2105028719b309e2bdc15ad93067247f08ba/docs/design/horizontal-pod-autoscaler.md#autoscaling-algorithm) - Horizontal Pod autoscaling (under development).
+
+## Frameworks
+
+- [Fenzo](https://github.com/Netflix/Fenzo) - Netflix framework for Mesos that autoscales both containers and host VMs.
+
+## Demos
+
+- [Microscaling-in-a-Box](https://app.force12.io) - simple demo of microscaling that runs on Docker on your local machine.
+
+## Theory
+
+### Articles
+
+- [InfoQ interview](http://circle-theory.blogspot.co.uk/2015/11/microscaling-with-load-balancing-in.html) - interview on microscaling with Ross Fairbanks of Force12.io by Daniel Bryant.
+- [Microscaling with load balancing in ECS](http://circle-theory.blogspot.co.uk/2015/11/microscaling-with-load-balancing-in.html) - blog post by Adam Christie.
+
+### Papers
+
+- [Borg](http://research.google.com/pubs/pub43438.html) - Large-scale cluster management at Google with Borg.
+- [Omega](http://research.google.com/pubs/pub41684.html) - Omega: flexible, scalable schedulers for large compute clusters.
+
+### Talks
+
+- [Game of Hosts: Containers vs VMs](https://www.youtube.com/watch?v=LaeQnlf2U84&index=1&list=PLDbVx7MrElf2VxfaOhNGAHgStgVaILlr4) - talk by Anne Currie at DevOps Exchange London meetup.
+- [Netflix Titan platform](https://www.youtube.com/watch?v=V3OfAATYksM) - talk by Diptanu Choudhury at DockerCon 2015.
 
 ## License
 
