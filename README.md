@@ -21,7 +21,7 @@ A curated list of Microscaling related principles and technologies inspired by [
 
 ## Schedulers
 
-- [Kubernetes](https://github.com/kubernetes/kubernetes/blob/cf8c2105028719b309e2bdc15ad93067247f08ba/docs/design/horizontal-pod-autoscaler.md#autoscaling-algorithm) - Horizontal Pod autoscaling (under development).
+- [Kubernetes](https://github.com/kubernetes/kubernetes/blob/cf8c2105028719b309e2bdc15ad93067247f08ba/docs/design/horizontal-pod-autoscaler.md#horizontal-pod-autoscaling) - Horizontal Pod autoscaling (under development).
 
 ## Frameworks
 
