@@ -21,7 +21,7 @@ A curated list of Microscaling related principles and technologies inspired by [
 
 ## Schedulers
 
-- [Kubernetes](https://github.com/kubernetes/kubernetes/blob/cf8c2105028719b309e2bdc15ad93067247f08ba/docs/design/horizontal-pod-autoscaler.md#autoscaling-algorithm) - Horizontal Pod autoscaling (under development).
+- [Kubernetes](https://github.com/kubernetes/kubernetes/blob/cf8c2105028719b309e2bdc15ad93067247f08ba/docs/design/horizontal-pod-autoscaler.md#horizontal-pod-autoscaling) - Horizontal Pod autoscaling (under development).
 
 ## Frameworks
 
@@ -35,7 +35,7 @@ A curated list of Microscaling related principles and technologies inspired by [
 
 ### Articles
 
-- [InfoQ interview](http://circle-theory.blogspot.co.uk/2015/11/microscaling-with-load-balancing-in.html) - interview on microscaling with Ross Fairbanks of Force12.io by Daniel Bryant.
+- [InfoQ interview](http://www.infoq.com/news/2015/09/force12io-microscaling-mesos) - interview on microscaling with Ross Fairbanks of Force12.io by Daniel Bryant.
 - [Microscaling with load balancing in ECS](http://circle-theory.blogspot.co.uk/2015/11/microscaling-with-load-balancing-in.html) - blog post by Adam Christie.
 
 ### Papers
