@@ -2,6 +2,10 @@
 
 A curated list of Microscaling related principles and technologies inspired by [awesome-microservices](https://github.com/mfornos/awesome-microservices). Microscaling.org redirects here.
 
+## What is Microscaling?
+
+Microscaling is scaling containers in real time based on current demand. It leverages the much faster startup and shutdown times of containers. The term is used to differentiate it from traditional auto scaling where you scale Virtual Machines, but it takes minutes.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
