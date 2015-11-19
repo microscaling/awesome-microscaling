@@ -30,6 +30,7 @@ Microscaling is scaling containers in real time based on current demand. It leve
 ## Frameworks
 
 - [Fenzo](https://github.com/Netflix/Fenzo) - Netflix framework for Mesos that autoscales both containers and host VMs.
+- [Firmament](https://github.com/ms705/firmament) - Cluster manager and scheduling platform developed at the University of Cambridge Computer Laboratory (under development).
 
 ## Demos
 
