@@ -51,6 +51,7 @@ Microscaling is scaling containers in real time based on current demand. It leve
 ### Talks
 
 - [Game of Hosts: Containers vs VMs](https://www.youtube.com/watch?v=LaeQnlf2U84&index=1&list=PLDbVx7MrElf2VxfaOhNGAHgStgVaILlr4) - talk by Anne Currie at DevOps Exchange London meetup.
+- [Microscaling - Autoscaling for the Container age](https://skillsmatter.com/skillscasts/6981-microscaling-autoscaling-for-the-container-age) - talk by Liz Rice at CodeNode for Skills Matter / ContainerSched 2015 (requires login).
 - [Netflix Titan platform](https://www.youtube.com/watch?v=V3OfAATYksM) - talk by Diptanu Choudhury at DockerCon 2015.
 
 ## License
