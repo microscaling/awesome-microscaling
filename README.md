@@ -43,6 +43,11 @@ Microscaling is scaling containers in real time based on current demand. It leve
 - [InfoQ interview](http://www.infoq.com/news/2015/09/force12io-microscaling-mesos) - interview on microscaling with Ross Fairbanks by Daniel Bryant.
 - [Microscaling with load balancing in ECS](http://circle-theory.blogspot.co.uk/2015/11/microscaling-with-load-balancing-in.html) - blog post by Adam Christie.
 
+### Books
+
+* [Feedback Control for Computer Systems](http://shop.oreilly.com/product/0636920028970.do) -introductory material on applying control theory to computer systems in general.
+* [Feedback Control of Computing Systems](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047126637X.html) - pre-cloud and pre-container use cases of using control theory. Cases mostly focus on automatic configuration of server parameters.
+
 ### Papers
 
 - [Borg](http://research.google.com/pubs/pub43438.html) - Large-scale cluster management at Google with Borg.
